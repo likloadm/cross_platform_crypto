@@ -2,6 +2,7 @@
 
 ## General information and overview
 
+
 This is a series of cryptography articles that will show how cryptography is done between different programming platforms. The sample programs do not attempt to be "secure" but explain how the crypto routines are compatible with other platforms.
 
 I'm trying to serve a broad spectrum of programming languages and actually I have solutions for these  frameworks: **Java**, **PHP**, **C#**, **Javascript - CryptoJs**, **NodeJs Crypto**,  **NodeJs node-forge**, **Python** (for selected programs), **Golang** (for selected programs) and **Dart** (for selected programs) as long the functionality is available on the platform. You can test all programs with online compilers (except Dart as no online compiler can consume external libraries) to see what the output is and what happens when you change some parameters. For selected assignments there is a **WebCrypto** solution available, that will run in your (modern) browser. For very rare programs I provide an [**OpenSSL**](#readme-openssl) solution.
